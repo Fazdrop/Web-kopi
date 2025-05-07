@@ -242,6 +242,15 @@ body{
     text-align: center;
 }
 
+.contact .row form .input-group{
+    display: flex;
+    align-items: center;
+    margin-top: 2rem;
+    background-color: var(--bg);
+    border: 1px solid #eee;
+    padding-left: 2rem;
+}
+
 
 /* Media Queries */
 
