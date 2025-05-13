@@ -331,7 +331,16 @@ body{
         font-size: 1.6rem;  
     }
 
-    
+    .contact .row{
+        flex-wrap: wrap;
+    }
+    .contact .row .map{
+        width: 100%;
+        height: 30rem;
+    }
+    .contact .row form{
+        padding-top: 0;
+    }
 }
 /* Handphone */
 @media (max-width: 450px){
